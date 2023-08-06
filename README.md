@@ -1,5 +1,3 @@
-# Holt_Exponential_Smoothing-and-Moving-Average
-
 # Time Series Forecasting for Pre-Event Air RPM Series
 
 This repository contains Python code for time series forecasting of the pre-event Air RPM (Revenue Passenger Miles) series using different smoothing methods.
